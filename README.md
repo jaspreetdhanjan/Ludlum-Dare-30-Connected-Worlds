@@ -9,4 +9,3 @@ Created by Jaspreet Dhanjan.
 <h2>License</h2>
 
 Free to use for anyone.
-A submission to LD30 of a game about something to do with Dinosaurs and explosives...
